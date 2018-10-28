@@ -1,0 +1,119 @@
+{
+  "configVersion": 1,
+  "index": "https://ganeshmani.github.io/angular-demo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ganeshmani.github.io/angular-demo/favicon.ico",
+        "https://ganeshmani.github.io/angular-demo/index.html"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ganeshmani.github.io/angular-demo/assets/CNAME",
+        "https://ganeshmani.github.io/angular-demo/assets/css/loading.css",
+        "https://ganeshmani.github.io/angular-demo/assets/css/reset.css",
+        "https://ganeshmani.github.io/angular-demo/assets/googled41787c6aae2151b.html",
+        "https://ganeshmani.github.io/angular-demo/assets/i18n/en.json",
+        "https://ganeshmani.github.io/angular-demo/assets/i18n/es.json",
+        "https://ganeshmani.github.io/angular-demo/assets/i18n/eu.json",
+        "https://ganeshmani.github.io/angular-demo/assets/i18n/pt-br.json",
+        "https://ganeshmani.github.io/angular-demo/assets/i18n/zh-cn.json",
+        "https://ganeshmani.github.io/angular-demo/assets/i18n/zh-hk.json",
+        "https://ganeshmani.github.io/angular-demo/assets/images/404.gif",
+        "https://ganeshmani.github.io/angular-demo/assets/images/angular.svg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/github-circle-white-transparent.svg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/1-thumbnail.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/1.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/2-thumbnail.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/2.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/3-thumbnail.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/3.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/4-thumbnail.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/4.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/5-thumbnail.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/5.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/6-thumbnail.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/6.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/7-thumbnail.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/7.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/8-thumbnail.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/8.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/9-thumbnail.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/9.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/images/heroes/default.png",
+        "https://ganeshmani.github.io/angular-demo/assets/images/loading-hero.jpg",
+        "https://ganeshmani.github.io/angular-demo/assets/js/gtm.js",
+        "https://ganeshmani.github.io/angular-demo/assets/js/modernizr.js",
+        "https://ganeshmani.github.io/angular-demo/assets/sitemap.xml"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ganeshmani.github.io/angular-demo/assets/CNAME": "9c4f0683cedd3eacb49584354ccc95dbb439ca48",
+    "https://ganeshmani.github.io/angular-demo/assets/css/loading.css": "702bd03f01fd23e914617bfc96041088d7dbc88b",
+    "https://ganeshmani.github.io/angular-demo/assets/css/reset.css": "82d5673e122656776dfc4e78e2883974f5eb0cdc",
+    "https://ganeshmani.github.io/angular-demo/assets/googled41787c6aae2151b.html": "a9fc98624735e71879021f130b38cf19491bb7c5",
+    "https://ganeshmani.github.io/angular-demo/assets/i18n/en.json": "a9e3410c718ee44cabfd8171ca28559558789c6e",
+    "https://ganeshmani.github.io/angular-demo/assets/i18n/es.json": "a366963f1202e42dc5c3f59d88ffb2b5e896a761",
+    "https://ganeshmani.github.io/angular-demo/assets/i18n/eu.json": "86abac79d95078d75cba8c56523ba3c0f1b684eb",
+    "https://ganeshmani.github.io/angular-demo/assets/i18n/pt-br.json": "a80a72dda906752a26335ee0e716d2a3a22aee7e",
+    "https://ganeshmani.github.io/angular-demo/assets/i18n/zh-cn.json": "70a8a4c71ec4ca391fb43aad9d8f7e5270b1ecc6",
+    "https://ganeshmani.github.io/angular-demo/assets/i18n/zh-hk.json": "f8c75ad134876c9da6c0a9cf38143a496fd7a268",
+    "https://ganeshmani.github.io/angular-demo/assets/images/404.gif": "5884765f20002934d84bbe9fb8cca3a46dc1326f",
+    "https://ganeshmani.github.io/angular-demo/assets/images/angular.svg": "765534075317a076e12de7e81a17a3d9df390a2c",
+    "https://ganeshmani.github.io/angular-demo/assets/images/github-circle-white-transparent.svg": "349b787ee896c7131dbaee6a8e37e1bfff40c7e5",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/1-thumbnail.jpg": "214479faa752a72b0b848cb06dc6ea85c8aa565b",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/1.jpg": "3563f2000887131872f26f039f5adc5f8a64ec99",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/2-thumbnail.jpg": "819a3423846ea4985705eec145bd5da6b414210e",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/2.jpg": "61f362b97086e72a758079d59b54f3ef7172cdc9",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/3-thumbnail.jpg": "f4fa4147cbc09b360a685847f6545546b3ce3831",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/3.jpg": "fbbd686edffeb4f79beafbeddd67d2d388d14430",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/4-thumbnail.jpg": "7ca2b19a5570ebabf86e25037a83a254c17b3e06",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/4.jpg": "39c7df03fd511adf8977285fda8cf6e607142ba0",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/5-thumbnail.jpg": "1785287ad3235385d8572faa0659ce23eeea2a20",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/5.jpg": "30ec6d209b859acfbfd75f350385c00cd138e1bb",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/6-thumbnail.jpg": "c903b33b213827ac5f33d8d8a72412de198f6edb",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/6.jpg": "5882eecc4ae916361f5cc5cbb370d60347cd15ea",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/7-thumbnail.jpg": "355abfddb39e2a538bed4d865afbbf7762c037be",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/7.jpg": "26a308e32aaeb0fc8479750181090abda7f5eae6",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/8-thumbnail.jpg": "ef5c9dc7089c65beee81670a9f47728cdc6d4fce",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/8.jpg": "a9e77b42530012a954af62417a1e77b0d906ef58",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/9-thumbnail.jpg": "c7db08c9e520fdbf03a229770efaf20628f93022",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/9.jpg": "dc12717b6e2070ae7a313851cfb8a1cdfc0e1b49",
+    "https://ganeshmani.github.io/angular-demo/assets/images/heroes/default.png": "4ba5c23dab24b6cb77cd8794a4b64b6e54998c31",
+    "https://ganeshmani.github.io/angular-demo/assets/images/loading-hero.jpg": "b1fe36d8447142ba33dac88f8e214abb1333d135",
+    "https://ganeshmani.github.io/angular-demo/assets/js/gtm.js": "7ea19a5e25bf754d6b86018c394bfc3e21ae51eb",
+    "https://ganeshmani.github.io/angular-demo/assets/js/modernizr.js": "150b77e7d9c4fd1be99e62508a151c197ea906a7",
+    "https://ganeshmani.github.io/angular-demo/assets/sitemap.xml": "3daf81189f9f2cde85431deeb900985908338911",
+    "https://ganeshmani.github.io/angular-demo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://ganeshmani.github.io/angular-demo/index.html": "b36c7d6d5e972b9afbfa25cb03cd74d610c4f576"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
