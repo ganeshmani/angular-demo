@@ -34,11 +34,11 @@ script:
   - npm run e2e
   - ng build --prod --base-href /
 
-after_success:
-  - if [ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "$TRAVIS_BRANCH" = "master" ]; then
-      angular-cli-ghpages --repo=https://GH_TOKEN@$GH_REPO --name="New release" --email=$EMAIL;
-    fi
-  - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
+# after_success:
+#   - if [ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "$TRAVIS_BRANCH" = "master" ]; then
+#       angular-cli-ghpages --repo=https://GH_TOKEN@$GH_REPO --name="New release" --email=$EMAIL;
+#     fi
+#   - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
 
 notifications:
   email:
